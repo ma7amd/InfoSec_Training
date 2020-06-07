@@ -1,2 +1,2 @@
 # InfoSec_Training
-Some of python payloads scripts
+Some Python Scripts while studying, these are just my first step in programming
